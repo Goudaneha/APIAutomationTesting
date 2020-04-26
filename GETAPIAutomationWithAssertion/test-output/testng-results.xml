@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10701" started-at="2020-04-22T17:01:19Z" finished-at="2020-04-22T17:01:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10701" started-at="2020-04-22T17:01:19Z" finished-at="2020-04-22T17:01:30Z">
+      <class name="com.api.ExecuteRestApi.ExecuteRestAPi">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.api.ExecuteRestApi.ExecuteRestAPi@ba8d91c]" name="setup" is-config="true" duration-ms="6" started-at="2020-04-22T10:01:19Z" finished-at="2020-04-22T10:01:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getapiresponse()[pri:0, instance:com.api.ExecuteRestApi.ExecuteRestAPi@ba8d91c]" name="getapiresponse" duration-ms="10671" started-at="2020-04-22T10:01:19Z" finished-at="2020-04-22T10:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getapiresponse -->
+      </class> <!-- com.api.ExecuteRestApi.ExecuteRestAPi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
